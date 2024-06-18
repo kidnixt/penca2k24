@@ -1,0 +1,259 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,result
+2020-02-01,United States,Costa Rica,1,0,Friendly,Carson,United States,False,Home
+2020-10-08,Paraguay,Peru,2,2,FIFA World Cup qualification,Asunción,Paraguay,False,Draw
+2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2020-10-09,Colombia,Venezuela,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Home
+2020-10-09,Brazil,Bolivia,5,0,FIFA World Cup qualification,São Paulo,Brazil,False,Home
+2020-10-10,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,False,Away
+2020-10-13,Costa Rica,Panama,0,1,Friendly,San José,Costa Rica,False,Away
+2020-10-13,Bolivia,Argentina,1,2,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2020-10-13,Ecuador,Uruguay,4,2,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2020-10-13,Venezuela,Paraguay,0,1,FIFA World Cup qualification,Mérida,Venezuela,False,Away
+2020-10-13,Peru,Brazil,2,4,FIFA World Cup qualification,Lima,Peru,False,Away
+2020-10-13,Chile,Colombia,2,2,FIFA World Cup qualification,Santiago,Chile,False,Draw
+2020-11-12,Bolivia,Ecuador,2,3,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2020-11-12,Argentina,Paraguay,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False,Draw
+2020-11-13,Colombia,Uruguay,0,3,FIFA World Cup qualification,Barranquilla,Colombia,False,Away
+2020-11-13,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False,Home
+2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,São Paulo,Brazil,False,Home
+2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,True,Home
+2020-11-17,Ecuador,Colombia,6,1,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2020-11-17,Venezuela,Chile,2,1,FIFA World Cup qualification,Caracas,Venezuela,False,Home
+2020-11-17,Peru,Argentina,0,2,FIFA World Cup qualification,Lima,Peru,False,Away
+2020-11-17,Paraguay,Bolivia,2,2,FIFA World Cup qualification,Asunción,Paraguay,False,Draw
+2020-11-17,Uruguay,Brazil,0,2,FIFA World Cup qualification,Montevideo,Uruguay,False,Away
+2021-03-25,United States,Jamaica,4,1,Friendly,Wiener Neustadt,Austria,True,Home
+2021-03-26,Chile,Bolivia,2,1,Friendly,Rancagua,Chile,False,Home
+2021-03-29,Ecuador,Bolivia,2,1,Friendly,Guayaquil,Ecuador,False,Home
+2021-03-30,Costa Rica,Mexico,0,1,Friendly,Wiener Neustadt,Austria,True,Away
+2021-06-03,Mexico,Costa Rica,0,0,CONCACAF Nations League,Denver,United States,True,Draw
+2021-06-03,Bolivia,Venezuela,3,1,FIFA World Cup qualification,La Paz,Bolivia,False,Home
+2021-06-03,Uruguay,Paraguay,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Draw
+2021-06-03,Argentina,Chile,1,1,FIFA World Cup qualification,Santiago del Estero,Argentina,False,Draw
+2021-06-03,Peru,Colombia,0,3,FIFA World Cup qualification,Lima,Peru,False,Away
+2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False,Home
+2021-06-06,United States,Mexico,3,2,CONCACAF Nations League,Denver,United States,False,Home
+2021-06-08,Ecuador,Peru,1,2,FIFA World Cup qualification,Quito,Ecuador,False,Away
+2021-06-08,Colombia,Argentina,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False,Draw
+2021-06-08,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Caracas,Venezuela,False,Draw
+2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,False,Away
+2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,Santiago,Chile,False,Draw
+2021-06-09,United States,Costa Rica,4,0,Friendly,Sandy,United States,False,Home
+2021-06-13,Brazil,Venezuela,3,0,Copa América,Brasília,Brazil,False,Home
+2021-06-13,Colombia,Ecuador,1,0,Copa América,Cuiabá,Brazil,True,Home
+2021-06-14,Argentina,Chile,1,1,Copa América,Rio de Janeiro,Brazil,True,Draw
+2021-06-14,Paraguay,Bolivia,3,1,Copa América,Goiânia,Brazil,True,Home
+2021-06-17,Colombia,Venezuela,0,0,Copa América,Goiânia,Brazil,True,Draw
+2021-06-17,Brazil,Peru,4,0,Copa América,Rio de Janeiro,Brazil,False,Home
+2021-06-18,Chile,Bolivia,1,0,Copa América,Cuiabá,Brazil,True,Home
+2021-06-18,Argentina,Uruguay,1,0,Copa América,Brasília,Brazil,True,Home
+2021-06-20,Venezuela,Ecuador,2,2,Copa América,Rio de Janeiro,Brazil,True,Draw
+2021-06-20,Colombia,Peru,1,2,Copa América,Goiânia,Brazil,True,Away
+2021-06-21,Uruguay,Chile,1,1,Copa América,Cuiabá,Brazil,True,Draw
+2021-06-21,Argentina,Paraguay,1,0,Copa América,Brasília,Brazil,True,Home
+2021-06-23,Ecuador,Peru,2,2,Copa América,Goiânia,Brazil,True,Draw
+2021-06-23,Brazil,Colombia,2,1,Copa América,Rio de Janeiro,Brazil,False,Home
+2021-06-24,Bolivia,Uruguay,0,2,Copa América,Cuiabá,Brazil,True,Away
+2021-06-24,Chile,Paraguay,0,2,Copa América,Brasília,Brazil,True,Away
+2021-06-27,Brazil,Ecuador,1,1,Copa América,Goiânia,Brazil,False,Draw
+2021-06-27,Venezuela,Peru,0,1,Copa América,Brasília,Brazil,True,Away
+2021-06-28,Argentina,Bolivia,4,1,Copa América,Cuiabá,Brazil,True,Home
+2021-06-28,Uruguay,Paraguay,1,0,Copa América,Rio de Janeiro,Brazil,True,Home
+2021-06-30,Mexico,Panama,3,0,Friendly,Nashville,United States,True,Home
+2021-07-02,Peru,Paraguay,3,3,Copa América,Goiânia,Brazil,True,Draw
+2021-07-02,Brazil,Chile,1,0,Copa América,Rio de Janeiro,Brazil,False,Home
+2021-07-03,Uruguay,Colombia,0,0,Copa América,Brasília,Brazil,True,Draw
+2021-07-03,Argentina,Ecuador,3,0,Copa América,Goiânia,Brazil,True,Home
+2021-07-05,Brazil,Peru,1,0,Copa América,Rio de Janeiro,Brazil,False,Home
+2021-07-06,Argentina,Colombia,1,1,Copa América,Brasília,Brazil,True,Draw
+2021-07-09,Peru,Colombia,2,3,Copa América,Brasília,Brazil,True,Away
+2021-07-10,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,False,Away
+2021-07-18,United States,Canada,1,0,Gold Cup,Kansas City,United States,False,Home
+2021-07-20,Costa Rica,Jamaica,1,0,Gold Cup,Orlando,United States,True,Home
+2021-07-25,Costa Rica,Canada,0,2,Gold Cup,Arlington,United States,True,Away
+2021-07-25,United States,Jamaica,1,0,Gold Cup,Arlington,United States,False,Home
+2021-07-29,Mexico,Canada,2,1,Gold Cup,Houston,United States,True,Home
+2021-08-01,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,False,Home
+2021-09-02,Bolivia,Colombia,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,Draw
+2021-09-02,Ecuador,Paraguay,2,0,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2021-09-02,Peru,Uruguay,1,1,FIFA World Cup qualification,Lima,Peru,False,Draw
+2021-09-02,Venezuela,Argentina,1,3,FIFA World Cup qualification,Caracas,Venezuela,False,Away
+2021-09-02,Chile,Brazil,0,1,FIFA World Cup qualification,Santiago,Chile,False,Away
+2021-09-02,Panama,Costa Rica,0,0,FIFA World Cup qualification,Panama City,Panama,False,Draw
+2021-09-02,Mexico,Jamaica,2,1,FIFA World Cup qualification,Mexico City,Mexico,False,Home
+2021-09-05,Ecuador,Chile,0,0,FIFA World Cup qualification,Quito,Ecuador,False,Draw
+2021-09-05,Paraguay,Colombia,1,1,FIFA World Cup qualification,Asunción,Paraguay,False,Draw
+2021-09-05,Uruguay,Bolivia,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2021-09-05,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False,Home
+2021-09-05,Costa Rica,Mexico,0,1,FIFA World Cup qualification,San José,Costa Rica,False,Away
+2021-09-05,Jamaica,Panama,0,3,FIFA World Cup qualification,Kingston,Jamaica,False,Away
+2021-09-05,United States,Canada,1,1,FIFA World Cup qualification,Nashville,United States,False,Draw
+2021-09-08,Costa Rica,Jamaica,1,1,FIFA World Cup qualification,San José,Costa Rica,False,Draw
+2021-09-08,Panama,Mexico,1,1,FIFA World Cup qualification,Panama City,Panama,False,Draw
+2021-09-09,Colombia,Chile,3,1,FIFA World Cup qualification,Barranquilla,Colombia,False,Home
+2021-09-09,Paraguay,Venezuela,2,1,FIFA World Cup qualification,Asunción,Paraguay,False,Home
+2021-09-09,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,False,Home
+2021-10-07,United States,Jamaica,2,0,FIFA World Cup qualification,Austin,United States,False,Home
+2021-10-07,Mexico,Canada,1,1,FIFA World Cup qualification,Mexico City,Mexico,False,Draw
+2021-10-07,Ecuador,Bolivia,3,0,FIFA World Cup qualification,Guayaquil,Ecuador,False,Home
+2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,Caracas,Venezuela,False,Away
+2021-10-07,Paraguay,Argentina,0,0,FIFA World Cup qualification,Asunción,Paraguay,False,Draw
+2021-10-07,Peru,Chile,2,0,FIFA World Cup qualification,Lima,Peru,False,Home
+2021-10-07,Uruguay,Colombia,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Draw
+2021-10-10,Jamaica,Canada,0,0,FIFA World Cup qualification,Kingston,Jamaica,False,Draw
+2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,Panama City,Panama,False,Home
+2021-10-10,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,False,Home
+2021-10-10,Colombia,Brazil,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Draw
+2021-10-10,Venezuela,Ecuador,2,1,FIFA World Cup qualification,Caracas,Venezuela,False,Home
+2021-10-10,Argentina,Uruguay,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2021-10-10,Chile,Paraguay,2,0,FIFA World Cup qualification,Santiago,Chile,False,Home
+2021-10-13,United States,Costa Rica,2,1,FIFA World Cup qualification,Columbus,United States,False,Home
+2021-10-13,Canada,Panama,4,1,FIFA World Cup qualification,Toronto,Canada,False,Home
+2021-10-14,Bolivia,Paraguay,4,0,FIFA World Cup qualification,La Paz,Bolivia,False,Home
+2021-10-14,Colombia,Ecuador,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Draw
+2021-10-14,Argentina,Peru,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2021-10-14,Brazil,Uruguay,4,1,FIFA World Cup qualification,Manaus,Brazil,False,Home
+2021-10-14,Chile,Venezuela,3,0,FIFA World Cup qualification,Santiago,Chile,False,Home
+2021-10-27,Mexico,Ecuador,2,3,Friendly,Charlotte,United States,True,Away
+2021-11-11,Ecuador,Venezuela,1,0,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2021-11-11,Paraguay,Chile,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,Away
+2021-11-11,Peru,Bolivia,3,0,FIFA World Cup qualification,Lima,Peru,False,Home
+2021-11-11,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,False,Home
+2021-11-12,Canada,Costa Rica,1,0,FIFA World Cup qualification,Edmonton,Canada,False,Home
+2021-11-12,United States,Mexico,2,0,FIFA World Cup qualification,Cincinnati,United States,False,Home
+2021-11-12,Uruguay,Argentina,0,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Away
+2021-11-16,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False,Draw
+2021-11-16,Canada,Mexico,2,1,FIFA World Cup qualification,Edmonton,Canada,False,Home
+2021-11-16,Bolivia,Uruguay,3,0,FIFA World Cup qualification,La Paz,Bolivia,False,Home
+2021-11-16,Venezuela,Peru,1,2,FIFA World Cup qualification,Caracas,Venezuela,False,Away
+2021-11-16,Colombia,Paraguay,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Draw
+2021-11-16,Argentina,Brazil,0,0,FIFA World Cup qualification,San Juan,Argentina,False,Draw
+2021-11-16,Chile,Ecuador,0,2,FIFA World Cup qualification,Santiago,Chile,False,Away
+2021-12-08,Mexico,Chile,2,2,Friendly,Austin,United States,True,Draw
+2022-01-16,Peru,Panama,1,1,Friendly,Lima,Peru,False,Draw
+2022-01-20,Peru,Jamaica,3,0,Friendly,Lima,Peru,False,Home
+2022-01-27,Jamaica,Mexico,1,2,FIFA World Cup qualification,Kingston,Jamaica,False,Away
+2022-01-27,Costa Rica,Panama,1,0,FIFA World Cup qualification,San José,Costa Rica,False,Home
+2022-01-27,Ecuador,Brazil,1,1,FIFA World Cup qualification,Quito,Ecuador,False,Draw
+2022-01-27,Paraguay,Uruguay,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,Away
+2022-01-27,Chile,Argentina,1,2,FIFA World Cup qualification,Calama,Chile,False,Away
+2022-01-28,Colombia,Peru,0,1,FIFA World Cup qualification,Barranquilla,Colombia,False,Away
+2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,False,Home
+2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,False,Home
+2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,Draw
+2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,False,Home
+2022-02-01,Bolivia,Chile,2,3,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2022-02-01,Uruguay,Venezuela,4,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2022-02-01,Argentina,Colombia,1,0,FIFA World Cup qualification,Córdoba,Argentina,False,Home
+2022-02-01,Peru,Ecuador,1,1,FIFA World Cup qualification,Lima,Peru,False,Draw
+2022-02-01,Brazil,Paraguay,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False,Home
+2022-02-02,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,False,Away
+2022-02-02,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,False,Home
+2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,Draw
+2022-03-24,Costa Rica,Canada,1,0,FIFA World Cup qualification,San José,Costa Rica,False,Home
+2022-03-24,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Home
+2022-03-24,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,Home
+2022-03-24,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Ciudad del Este,Paraguay,False,Home
+2022-03-24,Uruguay,Peru,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2022-03-25,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2022-03-27,Canada,Jamaica,4,0,FIFA World Cup qualification,Toronto,Canada,False,Home
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,False,Home
+2022-03-29,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False,Draw
+2022-03-29,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,False,Home
+2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2022-03-29,Venezuela,Colombia,0,1,FIFA World Cup qualification,Guayana,Venezuela,False,Away
+2022-03-29,Chile,Uruguay,0,2,FIFA World Cup qualification,Santiago,Chile,False,Away
+2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,False,Home
+2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,False,Home
+2022-06-02,Panama,Costa Rica,2,0,CONCACAF Nations League,Panama City,Panama,False,Home
+2022-06-02,Mexico,Uruguay,0,3,Friendly,Glendale,United States,True,Away
+2022-06-05,Mexico,Ecuador,0,0,Friendly,Chicago,United States,True,Draw
+2022-06-05,United States,Uruguay,0,0,Friendly,Kansas City,United States,False,Draw
+2022-06-11,Uruguay,Panama,5,0,Friendly,Montevideo,Uruguay,False,Home
+2022-06-14,Jamaica,Mexico,1,1,CONCACAF Nations League,Kingston,Jamaica,False,Draw
+2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,True,Away
+2022-09-24,Mexico,Peru,1,0,Friendly,Pasadena,United States,True,Home
+2022-09-27,Argentina,Jamaica,3,0,Friendly,Harrison,United States,True,Home
+2022-09-27,Canada,Uruguay,0,2,Friendly,Bratislava,Slovakia,True,Away
+2022-09-27,Mexico,Colombia,2,3,Friendly,Santa Clara,United States,True,Away
+2022-11-15,Venezuela,Panama,2,2,Friendly,Al Hamriyah,United Arab Emirates,True,Draw
+2022-11-16,Peru,Paraguay,1,0,Friendly,Lima,Peru,False,Home
+2022-11-19,Colombia,Paraguay,2,0,Friendly,Fort Lauderdale,United States,True,Home
+2022-11-19,Peru,Bolivia,1,0,Friendly,Arequipa,Peru,False,Home
+2022-11-26,Argentina,Mexico,2,0,FIFA World Cup,Lusail,Qatar,True,Home
+2023-01-28,United States,Colombia,0,0,Friendly,Carson,United States,False,Draw
+2023-03-23,Argentina,Panama,2,0,Friendly,Buenos Aires,Argentina,False,Home
+2023-03-26,Mexico,Jamaica,2,2,CONCACAF Nations League,Mexico City,Mexico,False,Draw
+2023-03-27,Chile,Paraguay,3,2,Friendly,Santiago,Chile,False,Home
+2023-03-28,Costa Rica,Panama,0,1,CONCACAF Nations League,San José,Costa Rica,False,Away
+2023-04-19,United States,Mexico,1,1,Friendly,Glendale,United States,False,Draw
+2023-06-15,Panama,Canada,0,2,CONCACAF Nations League,Las Vegas,United States,True,Away
+2023-06-15,United States,Mexico,3,0,CONCACAF Nations League,Las Vegas,United States,False,Home
+2023-06-17,Ecuador,Bolivia,1,0,Friendly,Harrison,United States,True,Home
+2023-06-18,Panama,Mexico,0,1,CONCACAF Nations League,Las Vegas,United States,True,Away
+2023-06-18,United States,Canada,2,0,CONCACAF Nations League,Las Vegas,United States,False,Home
+2023-06-20,Bolivia,Chile,0,0,Friendly,Santa Cruz,Bolivia,False,Draw
+2023-06-20,Ecuador,Costa Rica,3,1,Friendly,Chester,United States,True,Home
+2023-06-24,United States,Jamaica,1,1,Gold Cup,Chicago,United States,False,Draw
+2023-06-26,Costa Rica,Panama,1,2,Gold Cup,Fort Lauderdale,United States,True,Away
+2023-07-08,Mexico,Costa Rica,2,0,Gold Cup,Arlington,United States,True,Home
+2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,False,Draw
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False,Draw
+2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,True,Away
+2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,True,Home
+2023-08-27,Bolivia,Panama,1,2,Friendly,Cochabamba,Bolivia,False,Away
+2023-09-07,Colombia,Venezuela,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Home
+2023-09-07,Paraguay,Peru,0,0,FIFA World Cup qualification,Ciudad del Este,Paraguay,False,Draw
+2023-09-07,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2023-09-08,Uruguay,Chile,3,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2023-09-08,Brazil,Bolivia,5,1,FIFA World Cup qualification,Belém,Brazil,False,Home
+2023-09-12,Bolivia,Argentina,0,3,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2023-09-12,Ecuador,Uruguay,2,1,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2023-09-12,Venezuela,Paraguay,1,0,FIFA World Cup qualification,Maturín,Venezuela,False,Home
+2023-09-12,Peru,Brazil,0,1,FIFA World Cup qualification,Lima,Peru,False,Away
+2023-09-12,Chile,Colombia,0,0,FIFA World Cup qualification,Santiago,Chile,False,Draw
+2023-10-12,Colombia,Uruguay,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False,Draw
+2023-10-12,Bolivia,Ecuador,1,2,FIFA World Cup qualification,La Paz,Bolivia,False,Away
+2023-10-12,Argentina,Paraguay,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Home
+2023-10-12,Brazil,Venezuela,1,1,FIFA World Cup qualification,Cuiabá,Brazil,False,Draw
+2023-10-12,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False,Home
+2023-10-17,Venezuela,Chile,3,0,FIFA World Cup qualification,Maturín,Venezuela,False,Home
+2023-10-17,Ecuador,Colombia,0,0,FIFA World Cup qualification,Quito,Ecuador,False,Draw
+2023-10-17,Paraguay,Bolivia,1,0,FIFA World Cup qualification,Asunción,Paraguay,False,Home
+2023-10-17,Peru,Argentina,0,2,FIFA World Cup qualification,Lima,Peru,False,Away
+2023-10-17,Uruguay,Brazil,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2023-11-16,Costa Rica,Panama,0,3,CONCACAF Nations League,San José,Costa Rica,False,Away
+2023-11-16,Bolivia,Peru,2,0,FIFA World Cup qualification,La Paz,Bolivia,False,Home
+2023-11-16,Venezuela,Ecuador,0,0,FIFA World Cup qualification,Maturín,Venezuela,False,Draw
+2023-11-16,Colombia,Brazil,2,1,FIFA World Cup qualification,Barranquilla,Colombia,False,Home
+2023-11-16,Argentina,Uruguay,0,2,FIFA World Cup qualification,Buenos Aires,Argentina,False,Away
+2023-11-16,Chile,Paraguay,0,0,FIFA World Cup qualification,Santiago,Chile,False,Draw
+2023-11-18,Jamaica,Canada,1,2,CONCACAF Nations League,Kingston,Jamaica,False,Away
+2023-11-20,Panama,Costa Rica,3,1,CONCACAF Nations League,Panama City,Panama,False,Home
+2023-11-21,Canada,Jamaica,2,3,CONCACAF Nations League,Toronto,Canada,False,Away
+2023-11-21,Ecuador,Chile,1,0,FIFA World Cup qualification,Quito,Ecuador,False,Home
+2023-11-21,Paraguay,Colombia,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,Away
+2023-11-21,Uruguay,Bolivia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Home
+2023-11-21,Peru,Venezuela,1,1,FIFA World Cup qualification,Lima,Peru,False,Draw
+2023-11-21,Brazil,Argentina,0,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,Away
+2023-12-16,Mexico,Colombia,2,3,Friendly,Los Angeles,United States,True,Away
+2024-03-21,Panama,Mexico,0,3,CONCACAF Nations League,Arlington,United States,True,Away
+2024-03-21,United States,Jamaica,3,1,CONCACAF Nations League,Arlington,United States,False,Home
+2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,Arlington,United States,True,Home
+2024-03-24,United States,Mexico,2,0,CONCACAF Nations League,Arlington,United States,False,Home
+2024-03-26,Argentina,Costa Rica,3,1,Friendly,Los Angeles,United States,True,Home
+2024-05-31,Bolivia,Mexico,0,1,Friendly,Chicago,United States,True,Away
+2024-05-31,Costa Rica,Uruguay,0,0,Friendly,San José,Costa Rica,False,Draw
+2024-06-05,Mexico,Uruguay,0,4,Friendly,Denver,United States,True,Away
+2024-06-07,Peru,Paraguay,0,0,Friendly,Lima,Peru,False,Draw
+2024-06-08,Mexico,Brazil,2,3,Friendly,College Station,United States,True,Away
+2024-06-08,United States,Colombia,1,5,Friendly,Landover,United States,False,Away
+2024-06-09,Argentina,Ecuador,1,0,Friendly,Chicago,United States,True,Home
+2024-06-11,Chile,Paraguay,3,0,Friendly,Santiago,Chile,False,Home
+2024-06-12,Ecuador,Bolivia,3,1,Friendly,Chester,United States,True,Home
+2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,False,Draw
+2024-06-15,Colombia,Bolivia,3,0,Friendly,Denver,United States,True,Home
+2024-06-16,Panama,Paraguay,0,1,Friendly,Panama City,Panama,False,Away
