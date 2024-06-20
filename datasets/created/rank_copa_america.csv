@@ -1,4 +1,98 @@
 date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,total_points_home,previous_points_home,rank_home,rank_change_home,total_points_away,previous_points_away,rank_away,rank_change_away
+2018-03-27,United States,Paraguay,1,0,Friendly,Cary,United States,False,876.0,871.0,25.0,1.0,816.0,812.0,30.0,0.0
+2018-05-28,United States,Bolivia,3,0,Friendly,Chester,United States,False,880.0,880.0,24.0,0.0,548.0,548.0,57.0,0.0
+2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,True,1431.0,1384.0,2.0,0.0,884.0,858.0,23.0,-2.0
+2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,True,2160.0,2151.0,4.0,1.0,2041.0,1996.0,10.0,-5.0
+2018-09-07,Ecuador,Jamaica,2,0,Friendly,Harrison,United States,True,1376.0,1376.0,60.0,0.0,1400.0,1400.0,54.0,0.0
+2018-09-07,Mexico,Uruguay,1,4,Friendly,Houston,United States,True,1560.0,1548.0,16.0,1.0,1627.0,1552.0,5.0,-9.0
+2018-09-07,United States,Brazil,0,2,Friendly,East Rutherford,United States,False,1508.0,1508.0,22.0,-3.0,1657.0,1596.0,3.0,1.0
+2018-09-07,Venezuela,Colombia,1,2,Friendly,Miami Gardens,United States,True,1476.0,1476.0,31.0,-2.0,1563.0,1544.0,14.0,-2.0
+2018-09-11,Colombia,Argentina,0,0,Friendly,East Rutherford,United States,True,1563.0,1544.0,14.0,-2.0,1574.0,1584.0,11.0,6.0
+2018-09-11,Panama,Venezuela,0,2,Friendly,Panama City,Panama,False,1343.0,1396.0,69.0,14.0,1476.0,1476.0,31.0,-2.0
+2018-09-11,United States,Mexico,1,0,Friendly,Nashville,United States,False,1508.0,1508.0,22.0,-3.0,1560.0,1548.0,16.0,1.0
+2018-10-11,Mexico,Costa Rica,3,2,Friendly,San Nicolás de los Garza,Mexico,False,1550.0,1560.0,15.0,-1.0,1460.0,1471.0,37.0,5.0
+2018-10-11,United States,Colombia,2,4,Friendly,Tampa,United States,False,1510.0,1508.0,22.0,0.0,1567.0,1563.0,14.0,0.0
+2018-10-12,Peru,Chile,3,0,Friendly,Miami Gardens,United States,True,1525.0,1535.0,21.0,1.0,1568.0,1570.0,12.0,0.0
+2018-10-16,Colombia,Costa Rica,3,1,Friendly,Harrison,United States,True,1567.0,1563.0,14.0,0.0,1460.0,1471.0,37.0,5.0
+2018-10-16,Mexico,Chile,0,1,Friendly,Querétaro,Mexico,False,1550.0,1560.0,15.0,-1.0,1568.0,1570.0,12.0,0.0
+2018-10-16,United States,Peru,1,1,Friendly,East Hartford,United States,False,1510.0,1508.0,22.0,0.0,1525.0,1535.0,21.0,1.0
+2018-10-16,Argentina,Brazil,0,1,Superclásico de las Américas,Jeddah,Saudi Arabia,True,1575.0,1574.0,11.0,0.0,1663.0,1657.0,3.0,0.0
+2018-11-15,Peru,Ecuador,0,2,Friendly,Lima,Peru,False,1530.0,1525.0,20.0,-1.0,1371.0,1378.0,61.0,3.0
+2018-11-16,Argentina,Mexico,2,0,Friendly,Córdoba,Argentina,False,1573.0,1575.0,12.0,1.0,1549.0,1550.0,16.0,1.0
+2018-11-16,Brazil,Uruguay,1,0,Friendly,London,England,True,1669.0,1663.0,3.0,0.0,1617.0,1632.0,6.0,1.0
+2018-11-16,Chile,Costa Rica,2,3,Friendly,Rancagua,Chile,False,1568.0,1568.0,13.0,1.0,1452.0,1460.0,37.0,0.0
+2018-11-20,Argentina,Mexico,2,0,Friendly,Mendoza,Argentina,False,1573.0,1575.0,12.0,1.0,1549.0,1550.0,16.0,1.0
+2018-11-20,Panama,Ecuador,1,2,Friendly,Panama City,Panama,False,1335.0,1339.0,70.0,0.0,1371.0,1378.0,61.0,3.0
+2018-11-20,Peru,Costa Rica,2,3,Friendly,Arequipa,Peru,False,1530.0,1525.0,20.0,-1.0,1452.0,1460.0,37.0,0.0
+2019-01-27,United States,Panama,3,0,Friendly,Glendale,United States,False,1497.0,1497.0,25.0,0.0,1326.0,1326.0,71.0,0.0
+2019-02-02,United States,Costa Rica,2,0,Friendly,San Jose,United States,False,1497.0,1497.0,25.0,0.0,1464.0,1464.0,36.0,0.0
+2019-03-21,United States,Ecuador,1,0,Friendly,Orlando,United States,False,1501.0,1497.0,25.0,0.0,1382.0,1382.0,58.0,1.0
+2019-03-22,Argentina,Venezuela,1,3,Friendly,Madrid,Spain,True,1582.0,1582.0,11.0,0.0,1478.0,1478.0,32.0,1.0
+2019-03-22,Mexico,Chile,3,1,Friendly,San Diego,United States,True,1540.0,1540.0,17.0,0.0,1565.0,1565.0,13.0,0.0
+2019-03-22,Peru,Paraguay,1,0,Friendly,Harrison,United States,True,1518.0,1518.0,20.0,0.0,1476.0,1476.0,33.0,1.0
+2019-03-23,Brazil,Panama,1,1,Friendly,Porto,Portugal,True,1676.0,1676.0,3.0,0.0,1324.0,1326.0,76.0,5.0
+2019-03-26,Costa Rica,Jamaica,1,0,Friendly,San José,Costa Rica,False,1461.0,1464.0,37.0,1.0,1404.0,1404.0,54.0,0.0
+2019-03-26,Paraguay,Mexico,2,4,Friendly,Santa Clara,United States,True,1476.0,1476.0,33.0,1.0,1540.0,1540.0,17.0,0.0
+2019-03-26,United States,Chile,1,1,Friendly,Houston,United States,False,1501.0,1497.0,25.0,0.0,1565.0,1565.0,13.0,0.0
+2019-06-01,Venezuela,Ecuador,1,1,Friendly,Miami Gardens,United States,True,1484.0,1478.0,29.0,-3.0,1378.0,1382.0,59.0,1.0
+2019-06-03,Colombia,Panama,3,0,Friendly,Bogotá,Colombia,False,1573.0,1575.0,12.0,0.0,1327.0,1324.0,74.0,-2.0
+2019-06-05,Mexico,Venezuela,3,1,Friendly,Atlanta,United States,True,1549.0,1540.0,18.0,1.0,1484.0,1478.0,29.0,-3.0
+2019-06-05,Peru,Costa Rica,1,0,Friendly,Lima,Peru,False,1516.0,1518.0,21.0,1.0,1458.0,1461.0,38.0,1.0
+2019-06-05,United States,Jamaica,0,1,Friendly,"Washington, D.C.",United States,False,1506.0,1501.0,24.0,-1.0,1391.0,1404.0,56.0,2.0
+2019-06-07,Uruguay,Panama,3,0,Friendly,Montevideo,Uruguay,False,1613.0,1609.0,6.0,-1.0,1327.0,1324.0,74.0,-2.0
+2019-06-09,Mexico,Ecuador,3,2,Friendly,Arlington,United States,True,1549.0,1540.0,18.0,1.0,1378.0,1382.0,59.0,1.0
+2019-06-09,Peru,Colombia,0,3,Friendly,Lima,Peru,False,1516.0,1518.0,21.0,1.0,1573.0,1575.0,12.0,0.0
+2019-06-09,United States,Venezuela,0,3,Friendly,Cincinnati,United States,False,1506.0,1501.0,24.0,-1.0,1484.0,1478.0,29.0,-3.0
+2019-06-14,Brazil,Bolivia,3,0,Copa América,São Paulo,Brazil,False,1681.0,1676.0,3.0,0.0,1365.0,1366.0,62.0,-1.0
+2019-06-15,Venezuela,Peru,0,0,Copa América,Porto Alegre,Brazil,True,1485.0,1484.0,33.0,4.0,1516.0,1516.0,21.0,0.0
+2019-06-15,Argentina,Colombia,0,2,Copa América,Salvador,Brazil,True,1582.0,1580.0,11.0,0.0,1580.0,1573.0,13.0,1.0
+2019-06-16,Uruguay,Ecuador,4,0,Copa América,Belo Horizonte,Brazil,True,1615.0,1613.0,8.0,2.0,1375.0,1378.0,60.0,1.0
+2019-06-18,Bolivia,Peru,1,3,Copa América,Rio de Janeiro,Brazil,True,1365.0,1366.0,62.0,-1.0,1516.0,1516.0,21.0,0.0
+2019-06-18,Brazil,Venezuela,0,0,Copa América,Salvador,Brazil,False,1681.0,1676.0,3.0,0.0,1485.0,1484.0,33.0,4.0
+2019-06-19,Argentina,Paraguay,1,1,Copa América,Belo Horizonte,Brazil,True,1582.0,1580.0,11.0,0.0,1468.0,1467.0,36.0,0.0
+2019-06-19,Mexico,Canada,3,1,Gold Cup,Denver,United States,True,1557.0,1549.0,18.0,0.0,1314.0,1314.0,78.0,0.0
+2019-06-21,Ecuador,Chile,1,2,Copa América,Salvador,Brazil,True,1375.0,1378.0,60.0,1.0,1561.0,1559.0,16.0,1.0
+2019-06-22,Bolivia,Venezuela,1,3,Copa América,Belo Horizonte,Brazil,True,1365.0,1366.0,62.0,-1.0,1485.0,1484.0,33.0,4.0
+2019-06-22,Brazil,Peru,5,0,Copa América,São Paulo,Brazil,False,1681.0,1676.0,3.0,0.0,1516.0,1516.0,21.0,0.0
+2019-06-23,Colombia,Paraguay,1,0,Copa América,Salvador,Brazil,True,1580.0,1573.0,13.0,1.0,1468.0,1467.0,36.0,0.0
+2019-06-24,Chile,Uruguay,0,1,Copa América,Rio de Janeiro,Brazil,True,1561.0,1559.0,16.0,1.0,1615.0,1613.0,8.0,2.0
+2019-06-26,United States,Panama,1,0,Gold Cup,Kansas City,United States,False,1495.0,1506.0,30.0,6.0,1322.0,1327.0,75.0,1.0
+2019-06-27,Brazil,Paraguay,0,0,Copa América,Porto Alegre,Brazil,False,1681.0,1676.0,3.0,0.0,1468.0,1467.0,36.0,0.0
+2019-06-28,Colombia,Chile,0,0,Copa América,São Paulo,Brazil,True,1580.0,1573.0,13.0,1.0,1561.0,1559.0,16.0,1.0
+2019-06-28,Venezuela,Argentina,0,2,Copa América,Rio de Janeiro,Brazil,True,1485.0,1484.0,33.0,4.0,1582.0,1580.0,11.0,0.0
+2019-06-29,Uruguay,Peru,0,0,Copa América,Salvador,Brazil,True,1615.0,1613.0,8.0,2.0,1516.0,1516.0,21.0,0.0
+2019-06-29,Mexico,Costa Rica,1,1,Gold Cup,Houston,United States,True,1557.0,1549.0,18.0,0.0,1453.0,1458.0,39.0,1.0
+2019-06-30,Jamaica,Panama,1,0,Gold Cup,Philadelphia,United States,True,1397.0,1391.0,54.0,-2.0,1322.0,1327.0,75.0,1.0
+2019-07-02,Brazil,Argentina,2,0,Copa América,Belo Horizonte,Brazil,False,1681.0,1676.0,3.0,0.0,1582.0,1580.0,11.0,0.0
+2019-07-03,Chile,Peru,0,3,Copa América,Porto Alegre,Brazil,True,1561.0,1559.0,16.0,1.0,1516.0,1516.0,21.0,0.0
+2019-07-03,United States,Jamaica,3,1,Gold Cup,Nashville,United States,False,1495.0,1506.0,30.0,6.0,1397.0,1391.0,54.0,-2.0
+2019-07-06,Argentina,Chile,2,1,Copa América,São Paulo,Brazil,True,1582.0,1580.0,11.0,0.0,1561.0,1559.0,16.0,1.0
+2019-07-07,Brazil,Peru,3,1,Copa América,Rio de Janeiro,Brazil,False,1681.0,1676.0,3.0,0.0,1516.0,1516.0,21.0,0.0
+2019-07-07,United States,Mexico,0,1,Gold Cup,Chicago,United States,False,1495.0,1506.0,30.0,6.0,1557.0,1549.0,18.0,0.0
+2019-09-05,Argentina,Chile,0,0,Friendly,Los Angeles,United States,True,1610.0,1582.0,10.0,-1.0,1583.0,1561.0,14.0,-2.0
+2019-09-05,Peru,Ecuador,0,1,Friendly,Harrison,United States,True,1552.0,1516.0,19.0,-2.0,1359.0,1375.0,66.0,6.0
+2019-09-06,Brazil,Colombia,2,2,Friendly,Miami Gardens,United States,True,1726.0,1681.0,2.0,-1.0,1622.0,1580.0,8.0,-5.0
+2019-09-06,Costa Rica,Uruguay,1,2,Friendly,San José,Costa Rica,False,1445.0,1453.0,44.0,5.0,1637.0,1615.0,5.0,-3.0
+2019-09-06,United States,Mexico,0,3,Friendly,East Rutherford,United States,False,1548.0,1495.0,22.0,-8.0,1604.0,1557.0,12.0,-6.0
+2019-09-10,Argentina,Mexico,4,0,Friendly,San Antonio,United States,True,1610.0,1582.0,10.0,-1.0,1604.0,1557.0,12.0,-6.0
+2019-09-10,Brazil,Peru,0,1,Friendly,Los Angeles,United States,True,1726.0,1681.0,2.0,-1.0,1552.0,1516.0,19.0,-2.0
+2019-09-10,Colombia,Venezuela,0,0,Friendly,Tampa,United States,True,1622.0,1580.0,8.0,-5.0,1505.0,1485.0,26.0,-7.0
+2019-09-10,Ecuador,Bolivia,3,0,Friendly,Cuenca,Ecuador,False,1359.0,1375.0,66.0,6.0,1332.0,1365.0,73.0,11.0
+2019-09-10,United States,Uruguay,1,1,Friendly,St. Louis,United States,False,1548.0,1495.0,22.0,-8.0,1637.0,1615.0,5.0,-3.0
+2019-10-10,Venezuela,Bolivia,4,1,Friendly,Caracas,Venezuela,False,1506.0,1505.0,26.0,0.0,1327.0,1332.0,72.0,-1.0
+2019-10-11,Uruguay,Peru,1,0,Friendly,Montevideo,Uruguay,False,1639.0,1637.0,6.0,1.0,1551.0,1552.0,19.0,0.0
+2019-10-12,Colombia,Chile,0,0,Friendly,Alicante,Spain,True,1622.0,1622.0,9.0,1.0,1576.0,1583.0,17.0,3.0
+2019-10-13,Ecuador,Argentina,1,6,Friendly,Elche,Spain,True,1370.0,1359.0,65.0,-1.0,1614.0,1610.0,10.0,0.0
+2019-10-15,Peru,Uruguay,1,1,Friendly,Lima,Peru,False,1551.0,1552.0,19.0,0.0,1639.0,1637.0,6.0,1.0
+2019-10-15,Canada,United States,2,0,CONCACAF Nations League,Toronto,Canada,False,1322.0,1312.0,75.0,-3.0,1545.0,1548.0,21.0,-1.0
+2019-10-15,Mexico,Panama,3,1,CONCACAF Nations League,Mexico City,Mexico,False,1603.0,1604.0,12.0,0.0,1316.0,1331.0,77.0,3.0
+2019-11-15,Brazil,Argentina,0,1,Superclásico de las Américas,Riyadh,Saudi Arabia,True,1715.0,1719.0,3.0,0.0,1617.0,1614.0,9.0,-1.0
+2019-11-15,United States,Canada,4,1,CONCACAF Nations League,Orlando,United States,False,1530.0,1545.0,23.0,2.0,1339.0,1322.0,69.0,-6.0
+2019-11-15,Panama,Mexico,0,3,CONCACAF Nations League,Panama City,Panama,False,1310.0,1316.0,80.0,3.0,1613.0,1603.0,11.0,-1.0
+2019-11-15,Colombia,Peru,1,0,Friendly,Miami Gardens,United States,True,1615.0,1622.0,10.0,1.0,1548.0,1551.0,19.0,0.0
+2019-11-18,Argentina,Uruguay,2,2,Friendly,Tel Aviv,Israel,True,1617.0,1614.0,9.0,-1.0,1642.0,1639.0,5.0,-1.0
+2019-11-19,Ecuador,Colombia,0,1,Friendly,Harrison,United States,True,1368.0,1370.0,63.0,-2.0,1615.0,1622.0,10.0,1.0
+2020-02-01,United States,Costa Rica,1,0,Friendly,Carson,United States,False,1540.0,1540.0,22.0,0.0,1442.0,1442.0,46.0,0.0
 2020-10-08,Paraguay,Peru,2,2,FIFA World Cup qualification,Asunción,Paraguay,False,1461.0,1461.0,40.0,-1.0,1544.0,1544.0,22.0,1.0
 2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,1645.0,1645.0,6.0,1.0,1579.0,1579.0,17.0,0.0
 2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1623.0,1623.0,9.0,0.0,1368.0,1368.0,64.0,1.0
@@ -16,11 +110,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2020-11-13,Colombia,Uruguay,0,3,FIFA World Cup qualification,Barranquilla,Colombia,False,1631.0,1622.0,10.0,0.0,1637.0,1645.0,7.0,1.0
 2020-11-13,Chile,Peru,2,0,FIFA World Cup qualification,Santiago,Chile,False,1570.0,1579.0,17.0,0.0,1533.0,1544.0,24.0,2.0
 2020-11-13,Brazil,Venezuela,1,0,FIFA World Cup qualification,São Paulo,Brazil,False,1725.0,1712.0,3.0,0.0,1493.0,1517.0,28.0,3.0
+2020-11-16,United States,Panama,6,2,Friendly,Wiener Neustadt,Austria,True,1542.0,1542.0,22.0,-1.0,1317.0,1305.0,77.0,-4.0
 2020-11-17,Ecuador,Colombia,6,1,FIFA World Cup qualification,Quito,Ecuador,False,1380.0,1368.0,60.0,-4.0,1631.0,1622.0,10.0,0.0
 2020-11-17,Venezuela,Chile,2,1,FIFA World Cup qualification,Caracas,Venezuela,False,1493.0,1517.0,28.0,3.0,1570.0,1579.0,17.0,0.0
 2020-11-17,Peru,Argentina,0,2,FIFA World Cup qualification,Lima,Peru,False,1533.0,1544.0,24.0,2.0,1636.0,1623.0,8.0,-1.0
 2020-11-17,Paraguay,Bolivia,2,2,FIFA World Cup qualification,Asunción,Paraguay,False,1476.0,1461.0,35.0,-5.0,1314.0,1324.0,79.0,4.0
 2020-11-17,Uruguay,Brazil,0,2,FIFA World Cup qualification,Montevideo,Uruguay,False,1637.0,1645.0,7.0,1.0,1725.0,1712.0,3.0,0.0
+2021-03-25,United States,Jamaica,4,1,Friendly,Wiener Neustadt,Austria,True,1548.0,1545.0,22.0,0.0,1437.0,1437.0,47.0,0.0
 2021-03-26,Chile,Bolivia,2,1,Friendly,Rancagua,Chile,False,1567.0,1567.0,17.0,0.0,1307.0,1307.0,79.0,0.0
 2021-03-29,Ecuador,Bolivia,2,1,Friendly,Guayaquil,Ecuador,False,1409.0,1409.0,57.0,1.0,1307.0,1307.0,79.0,0.0
 2021-03-30,Costa Rica,Mexico,0,1,Friendly,Wiener Neustadt,Austria,True,1427.0,1427.0,50.0,-1.0,1632.0,1632.0,9.0,0.0
@@ -30,11 +126,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-06-03,Argentina,Chile,1,1,FIFA World Cup qualification,Santiago del Estero,Argentina,False,1641.95,1641.95,8.0,0.0,1569.52,1569.52,19.0,0.0
 2021-06-03,Peru,Colombia,0,3,FIFA World Cup qualification,Lima,Peru,False,1511.88,1511.88,27.0,0.0,1600.66,1600.66,15.0,0.0
 2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False,1742.65,1742.65,3.0,0.0,1413.01,1413.01,53.0,0.0
+2021-06-06,United States,Mexico,3,2,CONCACAF Nations League,Denver,United States,False,1555.42,1555.42,20.0,0.0,1629.56,1629.56,11.0,0.0
 2021-06-08,Ecuador,Peru,1,2,FIFA World Cup qualification,Quito,Ecuador,False,1413.01,1413.01,53.0,0.0,1511.88,1511.88,27.0,0.0
 2021-06-08,Colombia,Argentina,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False,1600.66,1600.66,15.0,0.0,1641.95,1641.95,8.0,0.0
 2021-06-08,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Caracas,Venezuela,False,1500.71,1500.71,30.0,0.0,1639.08,1639.08,9.0,0.0
 2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,False,1476.02,1476.02,35.0,0.0,1742.65,1742.65,3.0,0.0
 2021-06-08,Chile,Bolivia,1,1,FIFA World Cup qualification,Santiago,Chile,False,1569.52,1569.52,19.0,0.0,1300.11,1300.11,81.0,0.0
+2021-06-09,United States,Costa Rica,4,0,Friendly,Sandy,United States,False,1555.42,1555.42,20.0,0.0,1423.4,1423.4,50.0,0.0
 2021-06-13,Brazil,Venezuela,3,0,Copa América,Brasília,Brazil,False,1742.65,1742.65,3.0,0.0,1500.71,1500.71,30.0,0.0
 2021-06-13,Colombia,Ecuador,1,0,Copa América,Cuiabá,Brazil,True,1600.66,1600.66,15.0,0.0,1413.01,1413.01,53.0,0.0
 2021-06-14,Argentina,Chile,1,1,Copa América,Rio de Janeiro,Brazil,True,1641.95,1641.95,8.0,0.0,1569.52,1569.52,19.0,0.0
@@ -64,9 +162,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-07-06,Argentina,Colombia,1,1,Copa América,Brasília,Brazil,True,1641.95,1641.95,8.0,0.0,1600.66,1600.66,15.0,0.0
 2021-07-09,Peru,Colombia,2,3,Copa América,Brasília,Brazil,True,1511.88,1511.88,27.0,0.0,1600.66,1600.66,15.0,0.0
 2021-07-10,Brazil,Argentina,0,1,Copa América,Rio de Janeiro,Brazil,False,1742.65,1742.65,3.0,0.0,1641.95,1641.95,8.0,0.0
+2021-07-18,United States,Canada,1,0,Gold Cup,Kansas City,United States,False,1555.42,1555.42,20.0,0.0,1340.56,1340.56,70.0,0.0
 2021-07-20,Costa Rica,Jamaica,1,0,Gold Cup,Orlando,United States,True,1423.4,1423.4,50.0,0.0,1432.65,1432.65,45.0,0.0
 2021-07-25,Costa Rica,Canada,0,2,Gold Cup,Arlington,United States,True,1423.4,1423.4,50.0,0.0,1340.56,1340.56,70.0,0.0
+2021-07-25,United States,Jamaica,1,0,Gold Cup,Arlington,United States,False,1555.42,1555.42,20.0,0.0,1432.65,1432.65,45.0,0.0
 2021-07-29,Mexico,Canada,2,1,Gold Cup,Houston,United States,True,1629.56,1629.56,11.0,0.0,1340.56,1340.56,70.0,0.0
+2021-08-01,United States,Mexico,1,0,Gold Cup,Las Vegas,United States,False,1555.42,1555.42,20.0,0.0,1629.56,1629.56,11.0,0.0
 2021-09-02,Bolivia,Colombia,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,1285.94,1300.11,82.0,1.0,1617.67,1600.66,15.0,0.0
 2021-09-02,Ecuador,Paraguay,2,0,FIFA World Cup qualification,Quito,Ecuador,False,1405.26,1413.01,55.0,2.0,1483.49,1476.02,33.0,-2.0
 2021-09-02,Peru,Uruguay,1,1,FIFA World Cup qualification,Lima,Peru,False,1543.16,1511.88,22.0,-5.0,1634.63,1639.08,13.0,4.0
@@ -80,6 +181,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-09-05,Peru,Venezuela,1,0,FIFA World Cup qualification,Lima,Peru,False,1543.16,1511.88,22.0,-5.0,1463.3,1500.71,40.0,10.0
 2021-09-05,Costa Rica,Mexico,0,1,FIFA World Cup qualification,San José,Costa Rica,False,1449.79,1423.4,44.0,-6.0,1658.29,1629.56,9.0,-2.0
 2021-09-05,Jamaica,Panama,0,3,FIFA World Cup qualification,Kingston,Jamaica,False,1423.06,1432.65,50.0,5.0,1334.85,1321.97,74.0,-4.0
+2021-09-05,United States,Canada,1,1,FIFA World Cup qualification,Nashville,United States,False,1647.75,1555.42,10.0,-10.0,1399.35,1340.56,59.0,-11.0
 2021-09-08,Costa Rica,Jamaica,1,1,FIFA World Cup qualification,San José,Costa Rica,False,1449.79,1423.4,44.0,-6.0,1423.06,1432.65,50.0,5.0
 2021-09-08,Panama,Mexico,1,1,FIFA World Cup qualification,Panama City,Panama,False,1334.85,1321.97,74.0,-4.0,1658.29,1629.56,9.0,-2.0
 2021-09-09,Colombia,Chile,3,1,FIFA World Cup qualification,Barranquilla,Colombia,False,1617.67,1600.66,15.0,0.0,1557.81,1569.52,20.0,1.0
@@ -87,6 +189,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-09-09,Uruguay,Ecuador,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False,1634.63,1639.08,13.0,4.0,1405.26,1413.01,55.0,2.0
 2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1714.43,1641.95,6.0,-2.0,1285.94,1300.11,82.0,1.0
 2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,False,1797.67,1742.65,2.0,-1.0,1543.16,1511.88,22.0,-5.0
+2021-10-07,United States,Jamaica,2,0,FIFA World Cup qualification,Austin,United States,False,1643.1,1647.75,13.0,3.0,1402.39,1423.06,59.0,9.0
 2021-10-07,Mexico,Canada,1,1,FIFA World Cup qualification,Mexico City,Mexico,False,1666.19,1658.29,9.0,0.0,1416.23,1399.35,51.0,-8.0
 2021-10-07,Ecuador,Bolivia,3,0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1415.09,1405.26,52.0,-3.0,1283.65,1285.94,83.0,1.0
 2021-10-07,Venezuela,Brazil,1,3,FIFA World Cup qualification,Caracas,Venezuela,False,1434.14,1463.3,49.0,9.0,1811.73,1797.67,2.0,0.0
@@ -94,11 +197,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-10-07,Peru,Chile,2,0,FIFA World Cup qualification,Lima,Peru,False,1548.78,1543.16,21.0,-1.0,1536.53,1557.81,23.0,3.0
 2021-10-07,Uruguay,Colombia,0,0,FIFA World Cup qualification,Montevideo,Uruguay,False,1645.42,1634.63,12.0,-1.0,1618.4,1617.67,16.0,1.0
 2021-10-10,Jamaica,Canada,0,0,FIFA World Cup qualification,Kingston,Jamaica,False,1402.39,1423.06,59.0,9.0,1416.23,1399.35,51.0,-8.0
+2021-10-10,Panama,United States,1,0,FIFA World Cup qualification,Panama City,Panama,False,1358.77,1334.85,68.0,-6.0,1643.1,1647.75,13.0,3.0
 2021-10-10,Bolivia,Peru,1,0,FIFA World Cup qualification,La Paz,Bolivia,False,1283.65,1285.94,83.0,1.0,1548.78,1543.16,21.0,-1.0
 2021-10-10,Colombia,Brazil,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,1618.4,1617.67,16.0,1.0,1811.73,1797.67,2.0,0.0
 2021-10-10,Venezuela,Ecuador,2,1,FIFA World Cup qualification,Caracas,Venezuela,False,1434.14,1463.3,49.0,9.0,1415.09,1405.26,52.0,-3.0
 2021-10-10,Argentina,Uruguay,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1725.31,1714.43,6.0,0.0,1645.42,1634.63,12.0,-1.0
 2021-10-10,Chile,Paraguay,2,0,FIFA World Cup qualification,Santiago,Chile,False,1536.53,1557.81,23.0,3.0,1484.31,1483.49,35.0,2.0
+2021-10-13,United States,Costa Rica,2,1,FIFA World Cup qualification,Columbus,United States,False,1643.1,1647.75,13.0,3.0,1438.29,1449.79,44.0,0.0
 2021-10-13,Canada,Panama,4,1,FIFA World Cup qualification,Toronto,Canada,False,1416.23,1399.35,51.0,-8.0,1358.77,1334.85,68.0,-6.0
 2021-10-14,Bolivia,Paraguay,4,0,FIFA World Cup qualification,La Paz,Bolivia,False,1283.65,1285.94,83.0,1.0,1484.31,1483.49,35.0,2.0
 2021-10-14,Colombia,Ecuador,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,1618.4,1617.67,16.0,1.0,1415.09,1405.26,52.0,-3.0
@@ -111,7 +216,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2021-11-11,Peru,Bolivia,3,0,FIFA World Cup qualification,Lima,Peru,False,1534.06,1548.78,24.0,3.0,1309.75,1283.65,78.0,-5.0
 2021-11-11,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,False,1820.36,1811.73,2.0,0.0,1618.76,1618.4,16.0,0.0
 2021-11-12,Canada,Costa Rica,1,0,FIFA World Cup qualification,Edmonton,Canada,False,1432.34,1416.23,48.0,-3.0,1439.61,1438.29,45.0,1.0
+2021-11-12,United States,Mexico,2,0,FIFA World Cup qualification,Cincinnati,United States,False,1639.42,1643.1,13.0,0.0,1672.92,1666.19,9.0,0.0
 2021-11-12,Uruguay,Argentina,0,1,FIFA World Cup qualification,Montevideo,Uruguay,False,1625.67,1645.42,15.0,3.0,1738.79,1725.31,6.0,0.0
+2021-11-16,Jamaica,United States,1,1,FIFA World Cup qualification,Kingston,Jamaica,False,1407.72,1402.39,59.0,0.0,1639.42,1643.1,13.0,0.0
 2021-11-16,Canada,Mexico,2,1,FIFA World Cup qualification,Edmonton,Canada,False,1432.34,1416.23,48.0,-3.0,1672.92,1666.19,9.0,0.0
 2021-11-16,Bolivia,Uruguay,3,0,FIFA World Cup qualification,La Paz,Bolivia,False,1309.75,1283.65,78.0,-5.0,1625.67,1645.42,15.0,3.0
 2021-11-16,Venezuela,Peru,1,2,FIFA World Cup qualification,Caracas,Venezuela,False,1431.51,1434.14,50.0,1.0,1534.06,1548.78,24.0,3.0
@@ -128,6 +235,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2022-01-27,Chile,Argentina,1,2,FIFA World Cup qualification,Calama,Chile,False,1543.42,1541.33,24.0,0.0,1750.51,1750.51,5.0,0.0
 2022-01-28,Colombia,Peru,0,1,FIFA World Cup qualification,Barranquilla,Colombia,False,1607.15,1607.15,16.0,0.0,1551.15,1551.15,22.0,0.0
 2022-01-28,Venezuela,Bolivia,4,1,FIFA World Cup qualification,Barinas,Venezuela,False,1409.14,1409.14,59.0,0.0,1324.21,1324.21,77.0,0.0
+2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,False,1462.32,1462.32,40.0,0.0,1648.51,1647.14,11.0,-1.0
 2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,1638.3,1638.76,14.0,0.0,1437.43,1437.43,49.0,0.0
 2022-01-30,Panama,Jamaica,3,2,FIFA World Cup qualification,Panama City,Panama,False,1379.34,1379.34,63.0,0.0,1412.13,1412.13,57.0,0.0
 2022-02-01,Bolivia,Chile,2,3,FIFA World Cup qualification,La Paz,Bolivia,False,1324.21,1324.21,77.0,0.0,1543.42,1541.33,24.0,0.0
@@ -137,6 +245,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2022-02-01,Brazil,Paraguay,4,0,FIFA World Cup qualification,Belo Horizonte,Brazil,False,1826.35,1826.35,2.0,0.0,1454.52,1454.52,43.0,0.0
 2022-02-02,Jamaica,Costa Rica,0,1,FIFA World Cup qualification,Kingston,Jamaica,False,1412.13,1412.13,57.0,0.0,1437.43,1437.43,49.0,0.0
 2022-02-02,Mexico,Panama,1,0,FIFA World Cup qualification,Mexico City,Mexico,False,1638.3,1638.76,14.0,0.0,1379.34,1379.34,63.0,0.0
+2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,1647.9,1638.3,12.0,-2.0,1643.34,1648.51,13.0,2.0
 2022-03-24,Costa Rica,Canada,1,0,FIFA World Cup qualification,San José,Costa Rica,False,1464.06,1437.43,42.0,-7.0,1497.82,1462.32,33.0,-7.0
 2022-03-24,Colombia,Bolivia,3,0,FIFA World Cup qualification,Barranquilla,Colombia,False,1585.89,1607.15,19.0,3.0,1308.12,1324.21,76.0,-1.0
 2022-03-24,Brazil,Chile,4,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,1823.42,1826.35,2.0,0.0,1543.16,1543.42,26.0,2.0
@@ -144,15 +253,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2022-03-24,Uruguay,Peru,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False,1614.05,1596.66,16.0,-1.0,1563.45,1551.15,22.0,0.0
 2022-03-25,Argentina,Venezuela,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1766.99,1750.51,4.0,-1.0,1411.45,1409.14,58.0,-1.0
 2022-03-27,Canada,Jamaica,4,0,FIFA World Cup qualification,Toronto,Canada,False,1497.82,1462.32,33.0,-7.0,1378.62,1412.13,62.0,5.0
+2022-03-27,United States,Panama,5,1,FIFA World Cup qualification,Orlando,United States,False,1643.34,1648.51,13.0,2.0,1375.56,1379.34,63.0,0.0
 2022-03-29,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False,1458.63,1448.27,44.0,-2.0,1766.99,1750.51,4.0,-1.0
 2022-03-29,Peru,Paraguay,2,0,FIFA World Cup qualification,Lima,Peru,False,1563.45,1551.15,22.0,0.0,1440.53,1454.52,50.0,7.0
 2022-03-29,Bolivia,Brazil,0,4,FIFA World Cup qualification,La Paz,Bolivia,False,1308.12,1324.21,76.0,-1.0,1823.42,1826.35,2.0,0.0
 2022-03-29,Venezuela,Colombia,0,1,FIFA World Cup qualification,Guayana,Venezuela,False,1411.45,1409.14,58.0,-1.0,1585.89,1607.15,19.0,3.0
 2022-03-29,Chile,Uruguay,0,2,FIFA World Cup qualification,Santiago,Chile,False,1543.16,1543.42,26.0,2.0,1614.05,1596.66,16.0,-1.0
+2022-03-30,Costa Rica,United States,2,0,FIFA World Cup qualification,San José,Costa Rica,False,1464.06,1437.43,42.0,-7.0,1643.34,1648.51,13.0,2.0
 2022-03-30,Panama,Canada,1,0,FIFA World Cup qualification,Panama City,Panama,False,1375.56,1379.34,63.0,0.0,1497.82,1462.32,33.0,-7.0
 2022-06-02,Panama,Costa Rica,2,0,CONCACAF Nations League,Panama City,Panama,False,1382.79,1375.56,61.0,-2.0,1503.09,1464.06,31.0,-11.0
 2022-06-02,Mexico,Uruguay,0,3,Friendly,Glendale,United States,True,1658.82,1647.9,9.0,-3.0,1635.73,1614.05,13.0,-3.0
 2022-06-05,Mexico,Ecuador,0,0,Friendly,Chicago,United States,True,1658.82,1647.9,9.0,-3.0,1452.63,1458.63,46.0,2.0
+2022-06-05,United States,Uruguay,0,0,Friendly,Kansas City,United States,False,1633.72,1643.34,15.0,2.0,1635.73,1614.05,13.0,-3.0
 2022-06-11,Uruguay,Panama,5,0,Friendly,Montevideo,Uruguay,False,1635.73,1614.05,13.0,-3.0,1382.79,1375.56,61.0,-2.0
 2022-06-14,Jamaica,Mexico,1,1,CONCACAF Nations League,Kingston,Jamaica,False,1378.75,1378.62,64.0,2.0,1658.82,1647.9,9.0,-3.0
 2022-08-31,Mexico,Paraguay,0,1,Friendly,Atlanta,United States,True,1649.57,1649.57,12.0,0.0,1440.13,1440.13,50.0,0.0
@@ -165,17 +277,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2022-11-19,Colombia,Paraguay,2,0,Friendly,Fort Lauderdale,United States,True,1611.04,1604.07,17.0,0.0,1448.77,1440.13,47.0,-3.0
 2022-11-19,Peru,Bolivia,1,0,Friendly,Arequipa,Peru,False,1561.01,1562.24,23.0,2.0,1296.28,1298.81,82.0,1.0
 2022-11-26,Argentina,Mexico,2,0,FIFA World Cup,Lusail,Qatar,True,1773.88,1770.65,3.0,0.0,1644.89,1649.57,13.0,1.0
+2023-01-28,United States,Colombia,0,0,Friendly,Carson,United States,False,1652.74,1627.48,13.0,-3.0,1612.78,1611.04,17.0,0.0
 2023-03-23,Argentina,Panama,2,0,Friendly,Buenos Aires,Argentina,False,1838.38,1773.88,2.0,-1.0,1391.7,1393.28,61.0,1.0
 2023-03-26,Mexico,Jamaica,2,2,CONCACAF Nations League,Mexico City,Mexico,False,1635.78,1644.89,15.0,2.0,1379.29,1378.86,64.0,0.0
 2023-03-27,Chile,Paraguay,3,2,Friendly,Santiago,Chile,False,1506.91,1509.61,31.0,2.0,1445.06,1448.77,46.0,-1.0
 2023-03-28,Costa Rica,Panama,0,1,CONCACAF Nations League,San José,Costa Rica,False,1500.18,1503.59,32.0,1.0,1391.7,1393.28,61.0,1.0
+2023-04-19,United States,Mexico,1,1,Friendly,Glendale,United States,False,1653.77,1652.74,13.0,0.0,1631.87,1635.78,15.0,0.0
 2023-06-15,Panama,Canada,0,2,CONCACAF Nations League,Las Vegas,United States,True,1399.23,1391.7,58.0,-3.0,1442.66,1431.64,47.0,-6.0
+2023-06-15,United States,Mexico,3,0,CONCACAF Nations League,Las Vegas,United States,False,1653.77,1652.74,13.0,0.0,1631.87,1635.78,15.0,0.0
 2023-06-17,Ecuador,Bolivia,1,0,Friendly,Harrison,United States,True,1478.13,1477.32,41.0,0.0,1296.42,1294.96,83.0,1.0
 2023-06-18,Panama,Mexico,0,1,CONCACAF Nations League,Las Vegas,United States,True,1399.23,1391.7,58.0,-3.0,1631.87,1635.78,15.0,0.0
+2023-06-18,United States,Canada,2,0,CONCACAF Nations League,Las Vegas,United States,False,1653.77,1652.74,13.0,0.0,1442.66,1431.64,47.0,-6.0
 2023-06-20,Bolivia,Chile,0,0,Friendly,Santa Cruz,Bolivia,False,1296.42,1294.96,83.0,1.0,1511.32,1506.91,31.0,0.0
 2023-06-20,Ecuador,Costa Rica,3,1,Friendly,Chester,United States,True,1478.13,1477.32,41.0,0.0,1491.12,1500.18,39.0,7.0
+2023-06-24,United States,Jamaica,1,1,Gold Cup,Chicago,United States,False,1653.77,1652.74,13.0,0.0,1381.87,1379.29,63.0,-1.0
 2023-06-26,Costa Rica,Panama,1,2,Gold Cup,Fort Lauderdale,United States,True,1491.12,1500.18,39.0,7.0,1399.23,1391.7,58.0,-3.0
 2023-07-08,Mexico,Costa Rica,2,0,Gold Cup,Arlington,United States,True,1639.19,1631.87,14.0,-1.0,1478.3,1491.12,42.0,3.0
+2023-07-09,United States,Canada,2,2,Gold Cup,Cincinnati,United States,False,1673.34,1653.77,11.0,-2.0,1454.12,1442.66,45.0,-2.0
+2023-07-12,United States,Panama,1,1,Gold Cup,San Diego,United States,False,1673.34,1653.77,11.0,-2.0,1399.23,1399.23,57.0,-1.0
 2023-07-12,Jamaica,Mexico,0,3,Gold Cup,Paradise,United States,True,1367.83,1381.87,63.0,0.0,1639.19,1631.87,14.0,-1.0
 2023-07-16,Mexico,Panama,1,0,Gold Cup,Inglewood,United States,True,1639.19,1631.87,14.0,-1.0,1399.23,1399.23,57.0,-1.0
 2023-08-27,Bolivia,Panama,1,2,Friendly,Cochabamba,Bolivia,False,1295.09,1295.09,83.0,0.0,1453.94,1399.23,45.0,-12.0
@@ -215,15 +334,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,t
 2023-11-21,Brazil,Argentina,0,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,1812.2,1837.61,3.0,0.0,1861.29,1851.41,1.0,0.0
 2023-12-16,Mexico,Colombia,2,3,Friendly,Los Angeles,United States,True,1655.21,1663.94,14.0,2.0,1651.2,1626.6,15.0,-2.0
 2024-03-21,Panama,Mexico,0,3,CONCACAF Nations League,Arlington,United States,True,1475.62,1475.62,44.0,3.0,1652.7,1652.7,15.0,0.0
+2024-03-21,United States,Jamaica,3,1,CONCACAF Nations League,Arlington,United States,False,1661.7,1665.27,13.0,1.0,1421.54,1421.54,57.0,2.0
 2024-03-24,Jamaica,Panama,1,0,CONCACAF Nations League,Arlington,United States,True,1421.54,1421.54,57.0,2.0,1475.62,1475.62,44.0,3.0
+2024-03-24,United States,Mexico,2,0,CONCACAF Nations League,Arlington,United States,False,1661.7,1665.27,13.0,1.0,1652.7,1652.7,15.0,0.0
 2024-03-26,Argentina,Costa Rica,3,1,Friendly,Los Angeles,United States,True,1855.2,1855.2,1.0,0.0,1437.57,1437.57,54.0,2.0
 2024-05-31,Bolivia,Mexico,0,1,Friendly,Chicago,United States,True,1284.55,1284.55,86.0,1.0,1652.7,1652.7,15.0,0.0
 2024-05-31,Costa Rica,Uruguay,0,0,Friendly,San José,Costa Rica,False,1437.57,1437.57,54.0,2.0,1665.99,1665.99,11.0,0.0
 2024-06-05,Mexico,Uruguay,0,4,Friendly,Denver,United States,True,1652.7,1652.7,15.0,0.0,1665.99,1665.99,11.0,0.0
 2024-06-07,Peru,Paraguay,0,0,Friendly,Lima,Peru,False,1512.68,1512.68,33.0,-2.0,1430.73,1430.73,56.0,3.0
 2024-06-08,Mexico,Brazil,2,3,Friendly,College Station,United States,True,1652.7,1652.7,15.0,0.0,1784.09,1784.09,5.0,0.0
+2024-06-08,United States,Colombia,1,5,Friendly,Landover,United States,False,1661.7,1665.27,13.0,1.0,1655.29,1655.29,14.0,0.0
 2024-06-09,Argentina,Ecuador,1,0,Friendly,Chicago,United States,True,1855.2,1855.2,1.0,0.0,1519.2,1519.2,31.0,-1.0
 2024-06-11,Chile,Paraguay,3,0,Friendly,Santiago,Chile,False,1489.82,1489.82,42.0,2.0,1430.73,1430.73,56.0,3.0
 2024-06-12,Ecuador,Bolivia,3,1,Friendly,Chester,United States,True,1519.2,1519.2,31.0,-1.0,1284.55,1284.55,86.0,1.0
+2024-06-12,United States,Brazil,1,1,Friendly,Orlando,United States,False,1661.7,1665.27,13.0,1.0,1784.09,1784.09,5.0,0.0
 2024-06-15,Colombia,Bolivia,3,0,Friendly,Denver,United States,True,1655.29,1655.29,14.0,0.0,1284.55,1284.55,86.0,1.0
 2024-06-16,Panama,Paraguay,0,1,Friendly,Panama City,Panama,False,1475.62,1475.62,44.0,3.0,1430.73,1430.73,56.0,3.0
